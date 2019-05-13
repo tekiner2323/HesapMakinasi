@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">HesapMakinasi</string>
+    <string name="_0">0</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="c">C</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="_nokta">.</string>
+    <string name="_artiEksi">+/-</string>
+    <string name="_esittir">=</string>
+    <string name="_parantez">()</string>
+    <string name="_arti">+</string>
+    <string name="_eksi">-</string>
+    <string name="_bolu">/</string>
+    <string name="_carpma">*</string>
+    <string name="_satirSil"><![CDATA[<--]]></string>
 </resources>
